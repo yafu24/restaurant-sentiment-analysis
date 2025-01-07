@@ -46,27 +46,14 @@ pip install -r requirements.txt
 
 4. **Prepare the Dataset**
 - Place customer review datasets (CSV/JSON) in the `data/` folder.
-- Update the file paths in the configuration file (`config.json`).
 
 5. **Run Preprocessing**
-```bash
-python preprocess.py
-```
 
 6. **Train the Model**
-```bash
-python train_model.py
-```
 
 7. **Test and Evaluate**
-```bash
-python evaluate_model.py
-```
 
 8. **Run Analysis and Reports**
-```bash
-python analyze_sentiments.py
-```
 
 ---
 
@@ -90,6 +77,5 @@ python analyze_sentiments.py
 
 ---
 
-## Contact
-For questions or suggestions, contact: [Your Name] - [Your Email Address]
-
+## Developer
+YAFET BERHANE
