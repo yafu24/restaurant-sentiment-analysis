@@ -68,6 +68,11 @@ pip install -r requirements.txt
 - Word Clouds for Positive and Negative Reviews
 - Trends Over Time Based on Sentiment
 
+<p>
+ <img src="https://github.com/yafu24/restaurant-sentiment-analysis/blob/main/word_cloud.png" width=400 height=350 /> &nbsp; 
+ <img src="https://github.com/yafu24/restaurant-sentiment-analysis/blob/main/loss_image.png" width=400 height=350 /> &nbsp; 
+</p>
+
 ---
 
 ## Future Improvements
